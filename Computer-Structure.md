@@ -1,1 +1,1 @@
-![제목 없음-2023-02-23-1129.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5edbd51-9030-4fca-a6d6-05d4dba6392b/%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8_%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7-2023-02-23-1129.png)
+![제목 없음-2023-02-23-1129](https://github.com/gkqkehs7/Computer-Structure/assets/77993709/8a5c1bd5-9dac-4d6c-9fb3-83e66e2fbe21)
