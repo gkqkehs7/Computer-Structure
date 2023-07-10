@@ -136,4 +136,4 @@ cpu는 보통 25GHz를 유지하다, 고성능을 요하는 순간에 속도를 
 
 ### 파이프라이닝
 
-[파이프라이닝](https://www.notion.so/f5401c9115aa4c4ba5dc2444d1325067?pvs=21)
+[파이프라이닝 기법](https://github.com/gkqkehs7/Computer-Structure/blob/main/pipelining.md)
