@@ -9,7 +9,7 @@
 
 cpu는 컴퓨터의 뇌라고 할 수 있습니다. cpu는 메모리에 저장된 명령어를 읽어서 해석하고 실행하는 부품입니다.
 
-[cpu](https://www.notion.so/cpu-ecb8b88b57ae4ded9ece95148b8b7c56?pvs=21)
+[cpu에 대해 알아보자](https://github.com/gkqkehs7/Computer-Structure/blob/main/cpu.md)
 
 <br/>
 
@@ -17,7 +17,7 @@ cpu는 컴퓨터의 뇌라고 할 수 있습니다. cpu는 메모리에 저장�
 
 메모리는 현재 실행되는 프로그램의 명령어와 데이터를 컴퓨터가 켜져있는 동안 저장하는 부품입니다. 프로그램이 실행되려면 반드시 메모리에 저장되어 있어야하죠.
 
-[RAM](https://github.com/gkqkehs7/Computer-Structure/blob/main/memory.md)
+[RAM에 대해 알아보자](https://github.com/gkqkehs7/Computer-Structure/blob/main/memory.md)
 
 <br/>
 
@@ -25,7 +25,7 @@ cpu는 컴퓨터의 뇌라고 할 수 있습니다. cpu는 메모리에 저장�
 
 보조기억 장치는 컴퓨터가 종료되어도 데이터를 저장하기 위해서 존재합니다. 컴퓨터가 꺼지면 사라지는 휘발성인 메모리와는 다르게 보조기억 장치는 사라지지 않는 비휘발성입니다.
 
-[보조기억 장치](https://www.notion.so/3ee975d3a9d444138c396a4801d75a58?pvs=21)
+[보조기억 장치에 대해 알아보자](https://github.com/gkqkehs7/Computer-Structure/blob/main/Save%20Device.md%20)
 
 <br/>
 
@@ -51,4 +51,3 @@ cpu는 컴퓨터의 뇌라고 할 수 있습니다. cpu는 메모리에 저장�
 
 입출력 장치는 마이크, 스피커, 키보드처럼 컴퓨터 외부에 연결되어 컴퓨터 내부와 정보를 교환하는 장치입니다.
 
-[입출력 장치](https://www.notion.so/52ecabc54b9245008b0d3c09b586108a?pvs=21)
