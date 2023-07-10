@@ -6,11 +6,13 @@ cpu는 메모리에 저장된 명령어를 읽어 들이고, 해석하고, 실�
 
 도대체 cpu에선 어떻게 명령어를 처리하는 걸까요? 그 전에, 명령어가 무엇인지 부터 알아봅시다.
 
+<br/>
+
 ## 명령어
 
 명렁어에 대한 글은 너무 길어 따로 작성하였습니다.
 
-[명령어란 무엇일까?](https://www.notion.so/6c7cbbf4e6e04eb897ed53472f489ebd?pvs=21)
+[명령어란 무엇일까?](https://github.com/gkqkehs7/Computer-Structure/blob/main/Instruction.md)
 
 <br/>
 
