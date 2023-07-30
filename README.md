@@ -25,7 +25,7 @@ cpu는 컴퓨터의 뇌라고 할 수 있습니다. cpu는 메모리에 저장�
 
 보조기억 장치는 컴퓨터가 종료되어도 데이터를 저장하기 위해서 존재합니다. 컴퓨터가 꺼지면 사라지는 휘발성인 메모리와는 다르게 보조기억 장치는 사라지지 않는 비휘발성입니다.
 
-[보조기억 장치에 대해 알아보자](https://github.com/gkqkehs7/Computer-Structure/blob/main/Save%20Device.md%20)
+[보조기억 장치에 대해 알아보자](https://github.com/gkqkehs7/Computer-Structure/blob/main/io_device.md)
 
 <br/>
 
