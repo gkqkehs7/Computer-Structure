@@ -12,7 +12,7 @@ cpu는 컴퓨터의 뇌라고 할 수 있습니다. cpu는 메모리에 저장�
 [cpu에 대해 알아보자](https://github.com/gkqkehs7/Computer-Structure/blob/main/cpu.md)
 
 <br/>
-
+ 
 ## 메모리
 
 메모리는 현재 실행되는 프로그램의 명령어와 데이터를 컴퓨터가 켜져있는 동안 저장하는 부품입니다. 프로그램이 실행되려면 반드시 메모리에 저장되어 있어야하죠.
