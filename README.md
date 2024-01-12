@@ -1,6 +1,6 @@
 # Computer-Structure
 ![Drawing 2023-03-18 13 32 00 excalidraw](https://github.com/gkqkehs7/Computer-Structure/assets/77993709/73f27ce9-c128-4493-a036-62a20d528020)
-
+ 
 컴퓨터란 `명령어를 처리하는 기계` 입니다. 어떻게 컴퓨터는 명령어들을 처리할까요? 컴퓨터의 각 부품들을 살펴보며 알아봅시다.
 
 <br/> 
